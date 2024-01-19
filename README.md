@@ -3,5 +3,3 @@
 👀 I’m interested in learning new technologies evolving around me.<br>
 🌱 I’m currently learning flutter, dart, node.js, and many more.
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasis-rijal"> -->
-
